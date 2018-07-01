@@ -12,13 +12,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by Belal on 10/18/2017.
- */
-
 
 public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ProductViewHolder> {
-
 
     //this context we will use to inflate the layout
     private Context mCtx;

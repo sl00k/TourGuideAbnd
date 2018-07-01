@@ -17,10 +17,10 @@ public class PageThree extends Fragment {
         View rootView = inflater.inflate(R.layout.activity_main, container, false);
         // Create a list of CAT1
         final ArrayList<Product> products = new ArrayList<>();
-        products.add(new Product("Schellack & Co", "Musik der 20er- bis 40er-Jahre", "Location: domicil "));
-        products.add(new Product("Violet Quartet", "Jazz, Ethno, Trance", "Location: Dortmunder U "));
-        products.add(new Product("Deep Dive", "Chill, House, Lounge mit P.M.FM + Live-Einlagen zum Sonnenuntergang, bei gutem Wetter ", "Location: Herr Walter "));
-        products.add(new Product("Mitteilungen für interessierte Dorfbewohner", "mit Fritz Eckenga, Gast: Severin Groebner", "Location: Kino im U "));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageThree_ProductOne_1), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductOne_2), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductOne_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageThree_ProductTwo_1), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductTwo_2), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductTwo_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageThree_ProductThree_1), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductThree_2), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductThree_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageThree_ProductFour_1), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductFour_2), getString(com.example.android.tourguideabnd.R.string.PageThree_ProductFour_3)));
 
         //create new CategoryAdapter
         ProductAdapter adapter = new ProductAdapter(getActivity(), products);

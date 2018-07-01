@@ -38,4 +38,63 @@
     <string name="PageOne_ProductSeven_3">An der Buschmühle 3, 44139 Dortmund</string>
 
 
+    <string name="PageTwo_ProductOne_1">Zum Alten Markt</string>
+    <string name="PageTwo_ProductOne_2">Mettbagel und westfälische Schlachteplatte zum Bier in rustikalen Räumen mit Elchbüste oder auf der Terrasse.</string>
+    <string name="PageTwo_ProductOne_3">Markt 3, 44137 Dortmund</string>
+
+    <string name="PageTwo_ProductTwo_1">Mongo\'s Restaurant Dortmund</string>
+    <string name="PageTwo_ProductTwo_2">Drinks nach eigenem Rezept, asiatische Speisen à la carte und mongolisches All-you-can-eat auf Kuhfell-Bänken.</string>
+    <string name="PageTwo_ProductTwo_3">Lindemannstraße 78, 44137 Dortmund</string>
+
+    <string name="PageTwo_ProductThree_1">ZBest Friends Sushi Bar</string>
+    <string name="PageTwo_ProductThree_2">Die modern eingerichtete Sushibar am See serviert auch thailändische Suppen und gegrillte Fischspezialitäten.</string>
+    <string name="PageTwo_ProductThree_3">Am Kai 20, 44263 Dortmund</string>
+
+    <string name="PageTwo_ProductFour_1">Overkamp</string>
+    <string name="PageTwo_ProductFour_2">Das elegante Restaurant ist seit über 300 Jahre im Familienbesitz und serviert gehobene westfälische Gerichte.</string>
+    <string name="PageTwo_ProductFour_3">Am Ellberg 1, 44265 Dortmund</string>
+
+    <string name="PageTwo_ProductFive_1">Wenkers am Markt</string>
+    <string name="PageTwo_ProductFive_2">Das gesellige Brauhauslokal mit Terrasse bietet hauseigenes Bier zu deutscher Kost und Schnitzelspezialitäten.</string>
+    <string name="PageTwo_ProductFive_3">Betenstraße 1, 44137 Dortmund</string>
+
+    <string name="PageTwo_ProductSix_1"><![CDATA[EMIL Grill & Meer]]></string>
+    <string name="PageTwo_ProductSix_2">Das Restaurant bietet gehobene Grillspezialitäten im Gewölbe mit Kronleuchtern und auf der Terrasse an.</string>
+    <string name="PageTwo_ProductSix_3">Emil-Moog-Platz, 44137 Dortmund</string>
+
+
+    <string name="PageThree_ProductOne_1"><![CDATA[Schellack & Co]]></string>
+    <string name="PageThree_ProductOne_2">Musik der 20er- bis 40er-Jahre</string>
+    <string name="PageThree_ProductOne_3">Location: domicil</string>
+
+    <string name="PageThree_ProductTwo_1">Violet Quartet</string>
+    <string name="PageThree_ProductTwo_2">Jazz, Ethno, Trance</string>
+    <string name="PageThree_ProductTwo_3">Location: Dortmunder U</string>
+
+    <string name="PageThree_ProductThree_1">Deep Dive</string>
+    <string name="PageThree_ProductThree_2">Chill, House, Lounge mit P.M.FM + Live-Einlagen zum Sonnenuntergang, bei gutem Wetter</string>
+    <string name="PageThree_ProductThree_3">Location: Herr Walter</string>
+
+    <string name="PageThree_ProductFour_1">Mitteilungen für interessierte Dorfbewohner</string>
+    <string name="PageThree_ProductFour_2">mit Fritz Eckenga, Gast: Severin Groebner</string>
+    <string name="PageThree_ProductFour_3">Location: Kino im U</string>
+
+
+    <string name="PageFour_ProductOne_1">Brinkhoff´s No.1</string>
+    <string name="PageFour_ProductOne_2">Die Marke ist nach dem Entdecker des hellen Dortmunder Biertyps, dem Braumeister Fritz Brinkhoff, benannt.</string>
+    <string name="PageFour_ProductOne_3" />
+
+    <string name="PageFour_ProductTwo_1">Dortmunder Kronen</string>
+    <string name="PageFour_ProductTwo_2">Keine andere Marke ist so eng und so lange mit der Stadt Dortmund verbunden wie Dortmunder Kronen. 575 Jahre Brautradition.</string>
+    <string name="PageFour_ProductTwo_3" />
+
+    <string name="PageFour_ProductThree_1">Dortmunder Actien-Brauerei</string>
+    <string name="PageFour_ProductThree_2">Rund um den Globus ist DAB seither ein Markenzeichen Dortmunder (und Deutscher) Bierkultur.</string>
+    <string name="PageFour_ProductThree_3" />
+
+    <string name="PageFour_ProductFour_1">Dortmunder Union</string>
+    <string name="PageFour_ProductFour_2">Die Dortmunder Union Marken haben das Dortmunder Wahrzeichen - das Dortmunder U - als Markensymbol und somit eine enge Verbindung zur Stadt Dortmund.</string>
+    <string name="PageFour_ProductFour_3" />
+
+
 </resources>

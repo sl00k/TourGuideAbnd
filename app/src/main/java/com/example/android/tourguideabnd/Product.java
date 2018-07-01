@@ -1,11 +1,6 @@
 package com.example.android.tourguideabnd;
 
 
-/**
- * Created by Belal on 10/18/2017.
- */
-
-
 public class Product {
     private static int NO_IMAGE_PROVIDED = -1;
     private String title;

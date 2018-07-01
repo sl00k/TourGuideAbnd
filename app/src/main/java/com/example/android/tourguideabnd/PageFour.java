@@ -17,11 +17,10 @@ public class PageFour extends Fragment {
         View rootView = inflater.inflate(R.layout.activity_main, container, false);
         // Create a list of CAT1
         final ArrayList<Product> products = new ArrayList<>();
-        products.add(new Product("Brinkhoff´s No.1", "Die Marke ist nach dem Entdecker des hellen Dortmunder Biertyps, dem Braumeister Fritz Brinkhoff, benannt. ", ""));
-        products.add(new Product("Dortmunder Kronen ", "Keine andere Marke ist so eng und so lange mit der Stadt Dortmund verbunden wie Dortmunder Kronen. 575 Jahre Brautradition.", ""));
-        products.add(new Product("Dortmunder Actien-Brauerei", "Rund um den Globus ist DAB seither ein Markenzeichen Dortmunder (und Deutscher) Bierkultur.", ""));
-        products.add(new Product("Dortmunder Actien-Brauerei", "Rund um den Globus ist DAB seither ein Markenzeichen Dortmunder (und Deutscher) Bierkultur.", ""));
-        products.add(new Product("Dortmunder Union", "Die Dortmunder Union Marken haben das Dortmunder Wahrzeichen - das Dortmunder U - als Markensymbol und somit eine enge Verbindung zur Stadt Dortmund.", ""));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageFour_ProductOne_1), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductOne_2), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductOne_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageFour_ProductTwo_1), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductTwo_2), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductTwo_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageFour_ProductThree_1), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductThree_2), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductThree_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageFour_ProductFour_1), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductFour_2), getString(com.example.android.tourguideabnd.R.string.PageFour_ProductFour_3)));
 
 
         //create new CategoryAdapter

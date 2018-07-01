@@ -17,12 +17,12 @@ public class PageTwo extends Fragment {
         View rootView = inflater.inflate(R.layout.activity_main, container, false);
         // Create a list of CAT1
         final ArrayList<Product> products = new ArrayList<>();
-        products.add(new Product("Zum Alten Markt", "Mettbagel und westfälische Schlachteplatte zum Bier in rustikalen Räumen mit Elchbüste oder auf der Terrasse.", "Markt 3, 44137 Dortmund"));
-        products.add(new Product("Mongo's Restaurant Dortmund", "Drinks nach eigenem Rezept, asiatische Speisen à la carte und mongolisches All-you-can-eat auf Kuhfell-Bänken.", "Lindemannstraße 78, 44137 Dortmund"));
-        products.add(new Product("ZBest Friends Sushi Bar", "Die modern eingerichtete Sushibar am See serviert auch thailändische Suppen und gegrillte Fischspezialitäten.", "Am Kai 20, 44263 Dortmund"));
-        products.add(new Product("Overkamp", "Das elegante Restaurant ist seit über 300 Jahre im Familienbesitz und serviert gehobene westfälische Gerichte.", "Am Ellberg 1, 44265 Dortmund"));
-        products.add(new Product("Wenkers am Markt", "Das gesellige Brauhauslokal mit Terrasse bietet hauseigenes Bier zu deutscher Kost und Schnitzelspezialitäten.", "Betenstraße 1, 44137 Dortmund"));
-        products.add(new Product("EMIL Grill & Meer", "Das Restaurant bietet gehobene Grillspezialitäten im Gewölbe mit Kronleuchtern und auf der Terrasse an.", "Emil-Moog-Platz, 44137 Dortmund"));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductOne_1), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductOne_2), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductOne_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductTwo_1), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductTwo_2), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductTwo_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductThree_1), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductThree_2), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductThree_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductFour_1), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductFour_2), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductFour_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductFive_1), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductFive_2), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductFive_3)));
+        products.add(new Product(getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductSix_1), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductSix_2), getString(com.example.android.tourguideabnd.R.string.PageTwo_ProductSix_3)));
 
 
         //create new CategoryAdapter

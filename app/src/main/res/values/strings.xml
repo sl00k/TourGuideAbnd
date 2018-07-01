@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Dortmund</string>
+    <string name="image_of_the_place">Image of the place</string>
+
+    <string-array name="category">
+        <item>Activ</item>
+        <item>Tavern</item>
+        <item>Events</item>
+        <item>Beer</item>
+    </string-array>
+
+    <string name="PageOne_ProductOne_1">Bergmann Kiosk</string>
+    <string name="PageOne_ProductOne_2">Bei uns gibt es Bergmann Bier vom Fass und zum Mitnehmen. Harte Arbeit - Ehrlicher Lohn.</string>
+    <string name="PageOne_ProductOne_3">Hoher Wall 36, 44137 Dortmund</string>
+
+    <string name="PageOne_ProductTwo_1">Fußballmuseum</string>
+    <string name="PageOne_ProductTwo_2">Das Deutsche Fußballmuseum wurde am 23. Oktober 2015 als nationales Fußballmuseum des Deutschen Fußball-Bundes in Dortmund eröffnet.</string>
+    <string name="PageOne_ProductTwo_3">Platz der Deutschen Einheit 1, 44137 Dortmund</string>
+
+    <string name="PageOne_ProductThree_1">Industriemuseum</string>
+    <string name="PageOne_ProductThree_2">Industriemuseum in ehemaliger Zeche mit Jugendstilportal, in dem originale Maschinen ausgestellt werden.</string>
+    <string name="PageOne_ProductThree_3">Grubenweg 5, 44388 Dortmund</string>
+
+    <string name="PageOne_ProductFour_1">Dortmunder U</string>
+    <string name="PageOne_ProductFour_2">Das Dortmunder U, auch U-Turm genannt, ist ein 1926/1927 als „Gär- und Lagerkeller“ der Dortmunder Union Brauerei errichtetes Hochhaus am westlichen Rand der Dortmunder City.</string>
+    <string name="PageOne_ProductFour_3">Leonie-Reygers-Terrasse, 44137 Dortmund</string>
+
+    <string name="PageOne_ProductFive_1">Westfalenstadion</string>
+    <string name="PageOne_ProductFive_2">Der Signal Iduna Park ist mit 81.365 Zuschauerplätzen – in Fußballspiel-Konfiguration – das größte Fußballstadion Deutschlands.</string>
+    <string name="PageOne_ProductFive_3">Strobelallee 50, 44139 Dortmund</string>
+
+    <string name="PageOne_ProductSix_1">Weihnachtsmarkt</string>
+    <string name="PageOne_ProductSix_2">Besuchen Sie einen der größten und schönsten Weihnachtsmärkte Deutschlands!</string>
+    <string name="PageOne_ProductSix_3">Hansastraße 72, 44137 Dortmund</string>
+
+    <string name="PageOne_ProductSeven_1">Westfalenpark</string>
+    <string name="PageOne_ProductSeven_2">Der Westfalenpark Dortmund wurde zur ersten der drei dortigen Bundesgartenschauen eröffnet. </string>
+    <string name="PageOne_ProductSeven_3">An der Buschmühle 3, 44139 Dortmund</string>
+
+
+</resources>
